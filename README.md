@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Basic Hardhat Project
 
 It is  a buildspace.so project.
 
